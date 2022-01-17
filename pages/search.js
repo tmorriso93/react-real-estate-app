@@ -18,7 +18,7 @@ const Search = ({ properties }) => {
         cursor="pointer"
         bg="gray.100"
         borderBottom="1"
-        borderrColor="gray.200"
+        borderColor="gray.200"
         p="2"
         fontWeight="black"
         fontSize="lg"
